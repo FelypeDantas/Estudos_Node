@@ -1,6 +1,6 @@
 ## Sobre o que é
 
-<p> Este é o back-end completo em node js, de uma api de adoção de pets</p>
+<p> Exercicios de lógica com Node js</p>
 
 ## Autor
 <div align="center">
