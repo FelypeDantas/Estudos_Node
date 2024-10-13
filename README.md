@@ -14,5 +14,6 @@ Feito por Felype Dantas Dos Santos 👨🏻‍💻 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/Felype-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felype-dantas-dos-santos-94497b193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Whatszap Badge](https://img.shields.io/badge/Felype-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/qr/EOCNNKM4XUHDM1)
+[![GitHub Badge](https://img.shields.io/badge/Felype-000.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/FelypeDantas)
 
 </div>
