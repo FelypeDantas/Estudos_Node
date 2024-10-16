@@ -1,6 +1,35 @@
-## Sobre o que é
+# Repositório de Estudos com Node.js
 
-<p> Exercicios de lógica com Node js</p>
+Bem-vindo ao meu repositório de estudos sobre Node.js! Aqui você encontrará uma coleção de projetos e anotações que estou desenvolvendo enquanto aprendo sobre este poderoso ambiente de execução JavaScript.
+
+## Objetivo
+
+O objetivo deste repositório é organizar o conhecimento adquirido e compartilhar exemplos práticos de como utilizar o Node.js para desenvolver aplicações web e APIs.
+
+## Estrutura do Repositório
+
+- **/projetos**: Contém projetos completos que utilizam Node.js.
+- **/anotacoes**: Anotações e conceitos importantes relacionados ao Node.js.
+- **/exercicios**: Exercícios práticos para reforçar o aprendizado.
+
+## Tecnologias Utilizadas
+
+- **Node.js**: Ambiente de execução JavaScript do lado do servidor.
+- **Express**: Framework para construir aplicações web.
+- **MongoDB**: Banco de dados NoSQL (se aplicável).
+- **Mongoose**: Biblioteca para modelar dados em MongoDB.
+
+## Como Começar
+
+Para começar a explorar os projetos neste repositório, siga os passos abaixo:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu_usuario/estudos-nodejs.git
+   cd estudos-nodejs/projetos/nome_do_projeto
+   npm install
+   npm start
+
 
 ## Autor
 <div align="center">
