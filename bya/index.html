@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Reservas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Sistema de Reserva</h1>
+        <p id="disponivel">Quantidade disponível: <span id="quantidade">3</span></p>
+        <label for="quantidadeReserva">Quantos deseja reservar?</label>
+        <input type="number" id="quantidadeReserva" min="1" max="3" value="1">
+        <button id="reservarBtn">Reservar</button>
+        <p id="status"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
