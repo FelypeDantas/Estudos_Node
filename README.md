@@ -1,35 +1,36 @@
-# Repositório de Estudos com Node.js
+## NivelDocs
 
-Bem-vindo ao meu repositório de estudos sobre Node.js! Aqui você encontrará uma coleção de projetos e anotações que estou desenvolvendo enquanto aprendo sobre este poderoso ambiente de execução JavaScript.
+<p> A primeira versão deste projeto foi criado em um curso da Alura sobre JavaScript com foco em protocolos de rede, o sitema pode ser descrevido como uma espécie de caderno digital, aonde você pode adicionar um documento e escrever neste, tem a opção de apagar o documento, e fazer PDF, possui um identificador nos documentos para mostrar quem está presente naquele documento atual.</p>
+<p>O sistema possui vinculo a um banco de dados não relacional e possui criptografia nas senhas colocadas, ao nivel em que o que será mandado para o banco de dados, será a criptografia.</p>
 
-## Objetivo
+### Alterações que fiz
 
-O objetivo deste repositório é organizar o conhecimento adquirido e compartilhar exemplos práticos de como utilizar o Node.js para desenvolver aplicações web e APIs.
+<p> As minhas alterações pessoais se baseiam:</p>
+<ul>
+  <li>na geração de PDF: já que o sistema original como foi mostrado no curso não fazia.</li>
+  <li>Editor de texto simples: Acrescentei o  tinymce para que pudesse editar o que for escrito no documento.</li>
+  <li>Retirando o nodemon: Para a produção do código o instrutor do curso utilizou o nodemon e o comando "npm run dev" para subir o servidor, coloquei o npm start que é um comando próximo a idéia de produção</li>
+  <li>Comando open: Acrescentei o comando open para que não precise pesquisar a porta no meu navegador.</li>
+</ul>
 
-## Estrutura do Repositório
+### Pontos que procuro melhorar
+<p> Percebi pontos a serem melhorados ao finalizar a aplicação e são esses:</p>
+<ul>
+  <li>Acrescento de imagem: Gostaria de acrescentar imagem da pessoa logada.</li>
+  <li>Hospedagem: tentei subir na vercel, mas pelo motivo que acredito ser do site ser pesado, está dando um estouro de tempo até o momento.</li>
+  <li>Bug ao abrir documento: ao abrir o documento pela primeira vez o texto não está aparecendo, o que me faz voltar a página inicial e voltar ao documento para recuperar, o motivo pode ser justamente uma aplicação pesada</li>
+</ul>
 
-- **/projetos**: Contém projetos completos que utilizam Node.js.
-- **/anotacoes**: Anotações e conceitos importantes relacionados ao Node.js.
-- **/exercicios**: Exercícios práticos para reforçar o aprendizado.
+### Ferramentas utilizadas para desenvolvimento
 
-## Tecnologias Utilizadas
-
-- **Node.js**: Ambiente de execução JavaScript do lado do servidor.
-- **Express**: Framework para construir aplicações web.
-- **MongoDB**: Banco de dados NoSQL (se aplicável).
-- **Mongoose**: Biblioteca para modelar dados em MongoDB.
-
-## Como Começar
-
-Para começar a explorar os projetos neste repositório, siga os passos abaixo:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu_usuario/estudos-nodejs.git
-   cd estudos-nodejs/projetos/nome_do_projeto
-   npm install
-   npm start
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![nodemon](https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
+![jsonwebtoken](https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)
+![express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 
 ## Autor
 <div align="center">
@@ -43,6 +44,5 @@ Feito por Felype Dantas Dos Santos 👨🏻‍💻 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/Felype-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felype-dantas-dos-santos-94497b193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Whatszap Badge](https://img.shields.io/badge/Felype-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/qr/EOCNNKM4XUHDM1)
-[![GitHub Badge](https://img.shields.io/badge/Felype-000.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/FelypeDantas)
 
 </div>
