@@ -1,6 +1,6 @@
 ## Neste projeto
 
-<p> Neste projeto foi usado node.js com sqLite para aprender ORM</p>
+<p> Neste projeto foi usado node.js com SQLite para aprender ORM</p>
 
 ## Autor
 <div align="center">
