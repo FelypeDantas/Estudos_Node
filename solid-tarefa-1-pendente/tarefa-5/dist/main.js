@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var ClienteController_1 = require("./controller/ClienteController");
+var Cliente_1 = require("./entities/Cliente");
+var clienteController = new ClienteController_1.default();
+var cliente1 = new Cliente_1.default(0, "João", "joao@mail.com");
+var cliente2 = new Cliente_1.default(0, "Kleber", "kleber@mail.com");
+clienteController.adicionaCliente(cliente1);
+clienteController.adicionaCliente(cliente2);
+console.log(clienteController.listaClientes());
